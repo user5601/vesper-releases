@@ -1,12 +1,12 @@
 {
-  "versionCode": 9,
-  "versionName": "0.5.0",
-  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.5.0.apk",
-  "sha256": "8b9b7e17edfcb5a1fcb812245cef325ddcc3182c49133280c87b5dc083226529",
+  "versionCode": 10,
+  "versionName": "0.5.1",
+  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.5.1.apk",
+  "sha256": "615f228eaf97d8b84911735cc18572f7ff7f20b35ff35487e20ab0aa3536402d",
   "sizeBytes": 3309283,
   "notes": [
-    "Nouvel onglet Envies : 150 collections (Marvel, slashers, sagas, Pixar, réalisateurs…)",
-    "Recherche par envie avec l'IA, à la voix",
-    "Surprends-moi, Parce que vous avez regardé, choix du jour"
+    "Correctif : le lecteur ne se ferme plus à l'ouverture",
+    "L'accueil s'ouvre sur la grande affiche",
+    "Top 10 des séries"
   ]
 }
