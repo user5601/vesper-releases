@@ -1,12 +1,12 @@
 {
-  "versionCode": 8,
-  "versionName": "0.4.1",
-  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.4.1.apk",
-  "sha256": "aa6906976fb360ae7a31f796d26d8acf6bb6013a7698189eca3ed7231f922584",
-  "sizeBytes": 3178123,
+  "versionCode": 9,
+  "versionName": "0.5.0",
+  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.5.0.apk",
+  "sha256": "8b9b7e17edfcb5a1fcb812245cef325ddcc3182c49133280c87b5dc083226529",
+  "sizeBytes": 3309283,
   "notes": [
-    "Les actualisations des listes ne bloquent plus les écrans",
-    "Un seul titre par œuvre, avec le choix de la version",
-    "Passer le générique, épisode suivant, fréquence d'image automatique"
+    "Nouvel onglet Envies : 150 collections (Marvel, slashers, sagas, Pixar, réalisateurs…)",
+    "Recherche par envie avec l'IA, à la voix",
+    "Surprends-moi, Parce que vous avez regardé, choix du jour"
   ]
 }
