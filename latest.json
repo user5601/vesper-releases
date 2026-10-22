@@ -1,12 +1,13 @@
 {
-  "versionCode": 10,
-  "versionName": "0.5.1",
-  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.5.1.apk",
-  "sha256": "615f228eaf97d8b84911735cc18572f7ff7f20b35ff35487e20ab0aa3536402d",
+  "versionCode": 12,
+  "versionName": "0.5.3",
+  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.5.3.apk",
+  "sha256": "add2ed03b13a13f42c1cbe66b5efaf7492308c63319090ef95ed90921ceaedf9",
   "sizeBytes": 3309283,
   "notes": [
-    "Correctif : le lecteur ne se ferme plus à l'ouverture",
-    "L'accueil s'ouvre sur la grande affiche",
-    "Top 10 des séries"
+    "Images plus rapides, plus jamais l'affiche d'un autre film en fond",
+    "Retour du lecteur : on retrouve la chaîne ou le film où on était",
+    "Chaîne muette : message clair et « Chaîne suivante » au lieu d'un écran noir",
+    "Accueil plus varié, Incontournables = vrais classiques, démarrage plus rapide"
   ]
 }
