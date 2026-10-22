@@ -1,12 +1,12 @@
 {
-  "versionCode": 7,
-  "versionName": "0.4.0",
-  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.4.0.apk",
-  "sha256": "9315da636af4bdbcd36022d131eb0fc0af28637c40fbc7cfd4e7a0e4f346f472",
+  "versionCode": 8,
+  "versionName": "0.4.1",
+  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.4.1.apk",
+  "sha256": "aa6906976fb360ae7a31f796d26d8acf6bb6013a7698189eca3ed7231f922584",
   "sizeBytes": 3178123,
   "notes": [
-    "Un seul titre par œuvre, avec le choix de la version (VF, VOSTFR, 4K…)",
-    "Chaînes francophones d'abord, le reste du monde sous « Monde »",
+    "Les actualisations des listes ne bloquent plus les écrans",
+    "Un seul titre par œuvre, avec le choix de la version",
     "Passer le générique, épisode suivant, fréquence d'image automatique"
   ]
 }
