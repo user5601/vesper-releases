@@ -1,13 +1,13 @@
 {
-  "versionCode": 14,
-  "versionName": "0.7.0",
-  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.7.0.apk",
-  "sha256": "4ce23c2572156567760ac25c85ac1e2dcf3d9783a8cfdf96b76d0b08a814510c",
+  "versionCode": 15,
+  "versionName": "0.7.1",
+  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.7.1.apk",
+  "sha256": "1e9a78f3eb56349627abe1bd3eda7c38494fa1a45fab6fecaf35769508776a58",
   "sizeBytes": 3604267,
   "notes": [
-    "Nouvel onglet Sport : matchs en direct, calendrier, classements, buteurs, et les chaînes de ta liste qui diffusent chaque match",
-    "Ton club (PSG) à l'accueil, alertes de buts, rappels de coup d'envoi, mode sans spoiler",
-    "Pause façon Netflix, minuterie de sommeil, mode nuit, infos techniques, « Ce soir à la TV », rappels dans le guide",
-    "Appui long sur Reprendre (marquer vu, retirer), badge Nouvel épisode, notes IMDb / Rotten Tomatoes, alerte de fin d'abonnement"
+    "Fiche film : s'affiche d'un coup, complète, et le film se lance immédiatement",
+    "Page d'un match : le score n'est plus coupé en haut",
+    "Options pendant un film : nouveau panneau latéral, toutes les lignes visibles",
+    "Barre d'infos du lecteur remontée (plus coupée en bas), mode nuit sans coupure du son Dolby, nouvel essai auto si le flux est refusé"
   ]
 }
