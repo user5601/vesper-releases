@@ -1,13 +1,13 @@
 {
-  "versionCode": 17,
-  "versionName": "0.7.3",
-  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.7.3.apk",
-  "sha256": "2ad588d08a4f48cb1b335181d26b8048e90aa8adcf980a4716e617c74b95ae48",
-  "sizeBytes": 3620651,
+  "versionCode": 18,
+  "versionName": "0.7.4",
+  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.7.4.apk",
+  "sha256": "b9ffc4713610bbe3dacc3ea55774975f1aea23bb95308dd5c241a547881f4f7a",
+  "sizeBytes": 3620763,
   "notes": [
-    "Options pendant un film : les sous-menus (sous-titres, audio…) restent ouverts, on peut enfin choisir",
-    "Page de match épurée et nette : terrain de nuit discret, blasons en haute définition, cartes plus nettes",
-    "Accueil, Films, Séries : la rangée sélectionnée reste en lumière, les autres s'estompent",
-    "Direct : lumière d'ambiance, nom de la chaîne sur l'aperçu, « En ce moment » et « Ensuite » mieux présentés"
+    "« Continuer à regarder » directement sur l'écran d'accueil de la Shield",
+    "Fiche et barre de lecture aux couleurs du film, logos de chaînes toujours lisibles",
+    "Zapping sans écran noir, connexion libérée dès que Vesper passe en arrière-plan, message clair si l'abonnement est utilisé ailleurs",
+    "Défilement plus fluide (images préchargées), mises à jour proposées et installées en un clic"
   ]
 }
