@@ -1,13 +1,13 @@
 {
-  "versionCode": 12,
-  "versionName": "0.5.3",
-  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.5.3.apk",
-  "sha256": "add2ed03b13a13f42c1cbe66b5efaf7492308c63319090ef95ed90921ceaedf9",
-  "sizeBytes": 3309283,
+  "versionCode": 13,
+  "versionName": "0.6.0",
+  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.6.0.apk",
+  "sha256": "a25cf61d88b98f7c585d0aec89e50d95adc5ed61b944c64d2757b1ec22345d18",
+  "sizeBytes": 3391203,
   "notes": [
-    "Images plus rapides, plus jamais l'affiche d'un autre film en fond",
-    "Retour du lecteur : on retrouve la chaîne ou le film où on était",
-    "Chaîne muette : message clair et « Chaîne suivante » au lieu d'un écran noir",
-    "Accueil plus varié, Incontournables = vrais classiques, démarrage plus rapide"
+    "Sous-titres façon Netflix (taille, ombre ou bandeau) + recherche OpenSubtitles film par film",
+    "Avance/recul accélérés, pause claire, « Fin à », liste des épisodes et épisode suivant préchargé",
+    "Lancement des flux plus rapide, reconnexion automatique, réglé selon la puissance de la box",
+    "Retour en un seul appui, langues audio/sous-titres retenues par film et par série"
   ]
 }
