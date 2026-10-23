@@ -1,13 +1,13 @@
 {
-  "versionCode": 16,
-  "versionName": "0.7.2",
-  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.7.2.apk",
-  "sha256": "6d51dcb16e0163bf74fe1ce355fa032d13bb29adadfdd9e0fa469254ece78e39",
-  "sizeBytes": 3604267,
+  "versionCode": 17,
+  "versionName": "0.7.3",
+  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.7.3.apk",
+  "sha256": "2ad588d08a4f48cb1b335181d26b8048e90aa8adcf980a4716e617c74b95ae48",
+  "sizeBytes": 3620651,
   "notes": [
-    "Options pendant un film : ▲ ▼ pour choisir, OK pour valider, ◀ ou Retour pour fermer, sans jamais bloquer",
-    "Fiches film et match : en remontant, la page revient tout en haut, plus rien de coupé",
-    "Nouvelle page de match : terrain de nuit aux couleurs des deux clubs, grands blasons, tableau de score, barre du temps de jeu",
-    "Fiche film immédiate, mode nuit sans coupure du son Dolby, nouvel essai auto si le flux est refusé"
+    "Options pendant un film : les sous-menus (sous-titres, audio…) restent ouverts, on peut enfin choisir",
+    "Page de match épurée et nette : terrain de nuit discret, blasons en haute définition, cartes plus nettes",
+    "Accueil, Films, Séries : la rangée sélectionnée reste en lumière, les autres s'estompent",
+    "Direct : lumière d'ambiance, nom de la chaîne sur l'aperçu, « En ce moment » et « Ensuite » mieux présentés"
   ]
 }
