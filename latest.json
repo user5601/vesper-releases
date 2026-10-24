@@ -1,13 +1,13 @@
 {
-  "versionCode": 21,
-  "versionName": "0.7.6",
-  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.7.6.apk",
-  "sha256": "22915d3c727a26a8b839158944b84873ebfb68220f09bba8b8f50b305b54c558",
-  "sizeBytes": 3637331,
+  "versionCode": 22,
+  "versionName": "0.7.7",
+  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.7.7.apk",
+  "sha256": "9ddd9579de5d78ef27e4eaf634b27ea5ef5d050d2effcd6ac40d8702be22be7b",
+  "sizeBytes": 3653743,
   "notes": [
-    "Nouvelle rangée « ✦ Collections du moment » sur l'accueil : les collections de saison et celles illustrées par l'IA",
-    "« Pour toi », « Parce que vous avez regardé… » et « Vous aimerez aussi » : des recommandations calculées sur tout votre catalogue",
-    "Plus de 1 100 nouvelles collections dans Envies (spécial Halloween, braquages, réalisateurs, acteurs, sagas…) dont 300 avec une affiche originale",
-    "Logos HD aussi pour les variantes des chaînes (beIN Sports Global, beIN 1 APPEL, DAZN 1…)"
+    "Films et épisodes qui démarrent presque 2 fois plus vite (1,8 s en moyenne au lieu de 3,1 s), avances et retours rapides plus vifs",
+    "Accueil et pages Films/Séries plus fluides (près de 30 à 45 % d'à-coups en moins au défilement)",
+    "Direct : aperçu vidéo plus stable, catégories qui se chargent sans saccade quand on les fait défiler vite",
+    "Rangée « ✦ Collections du moment » sur l'accueil, logos HD des chaînes et recommandations « Pour toi »"
   ]
 }
