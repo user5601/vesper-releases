@@ -1,13 +1,13 @@
 {
-  "versionCode": 22,
-  "versionName": "0.7.7",
-  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.7.7.apk",
-  "sha256": "9ddd9579de5d78ef27e4eaf634b27ea5ef5d050d2effcd6ac40d8702be22be7b",
-  "sizeBytes": 3653743,
+  "versionCode": 23,
+  "versionName": "0.7.8",
+  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.7.8.apk",
+  "sha256": "4fd49c76ffffd8224fa0e16ee94c9713b9203e50444ad9b15fac4543f03a8df5",
+  "sizeBytes": 3696423,
   "notes": [
-    "Films et épisodes qui démarrent presque 2 fois plus vite (1,8 s en moyenne au lieu de 3,1 s), avances et retours rapides plus vifs",
-    "Accueil et pages Films/Séries plus fluides (près de 30 à 45 % d'à-coups en moins au défilement)",
-    "Direct : aperçu vidéo plus stable, catégories qui se chargent sans saccade quand on les fait défiler vite",
-    "Rangée « ✦ Collections du moment » sur l'accueil, logos HD des chaînes et recommandations « Pour toi »"
+    "Films qui démarrent dès « Lecture » : Vesper les prépare pendant que vous lisez la fiche",
+    "Accueil affiché dès l'ouverture, listes et cartes plus légères partout, fiches qui s'ouvrent en douceur",
+    "Image de cinéma : le téléviseur se cale aussi sur la cadence des fichiers qui ne l'indiquent pas",
+    "Navigation express : touche maintenue qui accélère, numéro de chaîne tapé au clavier dans le Direct, sons d'interface discrets (désactivables)"
   ]
 }
