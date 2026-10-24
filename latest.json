@@ -1,13 +1,13 @@
 {
-  "versionCode": 18,
-  "versionName": "0.7.4",
-  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.7.4.apk",
-  "sha256": "b9ffc4713610bbe3dacc3ea55774975f1aea23bb95308dd5c241a547881f4f7a",
-  "sizeBytes": 3620763,
+  "versionCode": 20,
+  "versionName": "0.7.5",
+  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.7.5.apk",
+  "sha256": "b1e125c0108ea3522fa781ee60ab41991abb7077291c14fd524429f0913bdb28",
+  "sizeBytes": 3637331,
   "notes": [
-    "« Continuer à regarder » directement sur l'écran d'accueil de la Shield",
-    "Fiche et barre de lecture aux couleurs du film, logos de chaînes toujours lisibles",
-    "Zapping sans écran noir, connexion libérée dès que Vesper passe en arrière-plan, message clair si l'abonnement est utilisé ailleurs",
-    "Défilement plus fluide (images préchargées), mises à jour proposées et installées en un clic"
+    "« Pour toi », « Parce que vous avez regardé… » et « Vous aimerez aussi » : des recommandations calculées sur tout votre catalogue",
+    "Plus de 1 100 nouvelles collections dans Envies (spécial Halloween, braquages, réalisateurs, acteurs, sagas…) dont 300 avec une affiche originale",
+    "Logos HD des chaînes françaises, et un économiseur d'écran Vesper avec les affiches de votre catalogue",
+    "Démarrage environ 30 % plus rapide ; les films et séries ne disparaissent plus après une actualisation incomplète"
   ]
 }
