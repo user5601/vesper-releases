@@ -1,1 +1,1 @@
-{"version": 1, "vectors": "data/vectors-1.bin", "collections": "data/collections-1.json.gz", "count": 16}
+{"version": 2, "vectors": "data/vectors-2.bin", "collections": "data/collections-2.json.gz", "count": 1149, "logos": "data/logos-1.json"}
