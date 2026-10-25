@@ -1,13 +1,12 @@
 {
-  "versionCode": 26,
-  "versionName": "0.8.1",
-  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.8.1.apk",
-  "sha256": "cf65fdd22d2b90eb07ad047333109f229325d9184e4048512397824332db1fed",
+  "versionCode": 27,
+  "versionName": "0.8.2",
+  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.8.2.apk",
+  "sha256": "dc5d3449d160c0a22ceec71e39435edfef358a83d2fc90abccb1bafbfd5482bf",
   "sizeBytes": 3712807,
   "notes": [
-    "Sport : « Regarder » ouvre l'image tout de suite (le son ne part plus seul sur la page du match)",
-    "Sport : les chaînes de chaque match sont prêtes dès l'ouverture de l'onglet",
-    "Accueil : la description du film à l'affiche respire au-dessus des boutons",
-    "Rappel 0.8.0 : catalogue relu, 37 000 titres en français, VF proposée d'abord"
+    "Recherche instantanée : les titres apparaissent dès les premières lettres (« madagascar » : 37 s → quelques millisecondes)",
+    "Défilement des films sans rebond : la page ne tremble plus en passant d'une affiche à l'autre",
+    "Sport : « Regarder » ouvre l'image tout de suite, chaînes des matchs prêtes à l'ouverture de l'onglet"
   ]
 }
