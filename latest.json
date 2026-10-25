@@ -1,14 +1,13 @@
 {
-  "versionCode": 25,
-  "versionName": "0.8.0",
-  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.8.0.apk",
-  "sha256": "8d6aa9730a1761c8abe4c63cb49320f97c4276469d7ab8c263297196cc613cc3",
+  "versionCode": 26,
+  "versionName": "0.8.1",
+  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.8.1.apk",
+  "sha256": "cf65fdd22d2b90eb07ad047333109f229325d9184e4048512397824332db1fed",
   "sizeBytes": 3712807,
   "notes": [
-    "Tout ton catalogue relu : 37 000 titres reconnus en français au lieu de 25 600 (préfixes « FR - », suffixes « -fr », « vost », « qb »…)",
-    "Catégories classées d'après leurs titres : « Animation Familial », « Action », « Séries 2026 »… enfin en français",
-    "92 % des films et 96 % des séries en français/anglais reconnus : affiches, résumés et casting",
-    "Fiche : toutes les langues d'un titre réunies, la VF proposée d'abord (VOSTFR et VF Québec indiquées)",
-    "Gros fichiers (remux 1080p) : plus de coupure au bout de quelques minutes"
+    "Sport : « Regarder » ouvre l'image tout de suite (le son ne part plus seul sur la page du match)",
+    "Sport : les chaînes de chaque match sont prêtes dès l'ouverture de l'onglet",
+    "Accueil : la description du film à l'affiche respire au-dessus des boutons",
+    "Rappel 0.8.0 : catalogue relu, 37 000 titres en français, VF proposée d'abord"
   ]
 }
