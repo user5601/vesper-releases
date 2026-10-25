@@ -1,13 +1,14 @@
 {
-  "versionCode": 24,
-  "versionName": "0.7.9",
-  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.7.9.apk",
-  "sha256": "4b7947e93c539e271c1a557a6ccde32ed7a854b409ec2d4043e9312be71007fb",
-  "sizeBytes": 3696419,
+  "versionCode": 25,
+  "versionName": "0.8.0",
+  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.8.0.apk",
+  "sha256": "8d6aa9730a1761c8abe4c63cb49320f97c4276469d7ab8c263297196cc613cc3",
+  "sizeBytes": 3712807,
   "notes": [
-    "Matchs en direct de nouveau lisibles, boutons « Où regarder » lisibles, chaînes d'un match trouvées tout de suite",
-    "Affiches « Reprendre » qui remplissent bien leur cadre (plus de coins noirs), logos et progression à leur place",
-    "Menu de gauche centré : « Réglages » n'est plus coupé en bas",
-    "« Vérifier les mises à jour » trouve une nouvelle version dès sa sortie"
+    "Tout ton catalogue relu : 37 000 titres reconnus en français au lieu de 25 600 (préfixes « FR - », suffixes « -fr », « vost », « qb »…)",
+    "Catégories classées d'après leurs titres : « Animation Familial », « Action », « Séries 2026 »… enfin en français",
+    "92 % des films et 96 % des séries en français/anglais reconnus : affiches, résumés et casting",
+    "Fiche : toutes les langues d'un titre réunies, la VF proposée d'abord (VOSTFR et VF Québec indiquées)",
+    "Gros fichiers (remux 1080p) : plus de coupure au bout de quelques minutes"
   ]
 }
