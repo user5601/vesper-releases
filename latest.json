@@ -1,12 +1,14 @@
 {
-  "versionCode": 27,
-  "versionName": "0.8.2",
-  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.8.2.apk",
-  "sha256": "dc5d3449d160c0a22ceec71e39435edfef358a83d2fc90abccb1bafbfd5482bf",
-  "sizeBytes": 3712807,
+  "versionCode": 29,
+  "versionName": "0.10.0",
+  "url": "https://raw.githubusercontent.com/user5601/vesper-releases/main/apk/Vesper-0.10.0.apk",
+  "sha256": "ade040eb42e0dcec24cce51ae53328ca0f731e5f7aa8443bdda6bb463c40d1ac",
+  "sizeBytes": 4822333,
   "notes": [
-    "Recherche instantanée : les titres apparaissent dès les premières lettres (« madagascar » : 37 s → quelques millisecondes)",
-    "Défilement des films sans rebond : la page ne tremble plus en passant d'une affiche à l'autre",
-    "Sport : « Regarder » ouvre l'image tout de suite, chaînes des matchs prêtes à l'ouverture de l'onglet"
+    "Son Vesper : même volume sur toutes les chaînes, les pubs et les films, mémorisé par chaîne",
+    "Voix claires : les dialogues passent devant la musique et les effets (détection de la voix par IA)",
+    "Réglé pour les haut-parleurs de la TV ou une barre de son, basses virtuelles, plus jamais de saturation",
+    "Connexion 5G : lecture plus stable, reprise rapide après une coupure, démarrage plus rapide",
+    "Épisodes de toutes les saisons dans le lecteur, avec titres et résumés ; affiches mieux cadrées"
   ]
 }
